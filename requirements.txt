@@ -102,7 +102,6 @@ packaging==24.2
 pandas==2.2.3
 pillow==10.4.0
 pinecone==6.0.2
-pinecone-client==6.0.0
 pinecone-plugin-interface==0.0.7
 platformdirs==4.3.7
 playwright==1.51.0
